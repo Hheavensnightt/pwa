@@ -2,14 +2,14 @@ import React from 'react'
 import '../../css/reset.css'
 import '../Login/login.css'
 import Ctivo from '../../logo.png'
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function Login() {
     return (
         <div className="main-page">
             <div className="main-container">
                 <picture className="logo-container">
-                    <img src={Ctivo} className="logo" />
+                    <img src={Ctivo} className="logo" alt="logo"/>
                 </picture>
                 
                 <h1>CONSTRUTIVO</h1>
