@@ -1,0 +1,62 @@
+[
+	{
+		"aplicativo": {
+			"label": "CHECK",
+			"value": "check"
+		},
+		"nomeForm": [
+			{
+				"label": "Nada Selecionado",
+				"value": "nadaSelecionado"
+			},
+			{
+				"label": "442 - RNC - EAP/BIM",
+				"value": "Check442"
+			},
+			{
+				"label": "497 - Elevação de Alvenaria - ACME - EAP/BIM",
+				"value": "Check497"
+			}
+		]
+	},
+	{
+		"aplicativo": {
+			"label": "RDO",
+			"value": "rdo"
+		},
+		"nomeForm": [
+			{
+				"label": "Nada Selecionado",
+				"value": "nadaSelecionado"
+			},
+			{
+				"label": "RDO1",
+				"value": "Rdo1"
+			}
+		]
+	},
+	{
+		"aplicativo": {
+			"label": "RNC",
+			"value": "rnc"
+		},
+		"nomeForm": [
+			{
+				"label": "Nada Selecionado",
+				"value": "nadaSelecionado"
+			}
+		]
+	},
+	{
+		"aplicativo": {
+			"label": "RDF",
+			"value": "rdf"
+		},
+		"nomeForm": [
+			{
+				"label": "Nada Selecionado",
+				"value": "nadaSelecionado"
+			}
+		]
+	}
+]

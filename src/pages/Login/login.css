@@ -1,0 +1,114 @@
+@import url(//db.onlinewebfonts.com/c/116d187134420de5733c7c45bbc80c46?family=LuloCleanW01-One);
+
+.logo {
+    /* position: relative;
+    top: 15px;
+    left: 100px;
+    width: 84px; */
+    height: 29px;
+
+}
+h1 {
+    padding-top: 90px;
+    font-family: "LuloCleanW01-One";
+    font-size: 25px;
+    color: #005e6e;
+}
+
+/* .main-container {
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.479);
+    height: 100%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(185, 230, 230, 0.397);
+} */
+
+/* .main-page {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(0deg, rgba(193,194,100,1) 21%, rgba(100,194,180,1) 93%, rgba(49,139,126,1) 100%, rgba(11,205,251,1) 100%, rgba(0,255,235,1) 100%);
+
+} */
+
+.ambient {
+    outline: none;
+    padding: 20px 7%;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 5%;
+    background-color: rgba(255, 255, 255, 0.733);
+}
+
+.login {
+    outline: none;
+    padding: 20px 7%;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 5%;
+    background-color: rgba(255, 255, 255, 0.733);
+}
+.password  {
+    outline: none;
+    padding: 20px 7%;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 5%;
+    background-color: rgba(255, 255, 255, 0.733);
+}
+
+p {
+    margin-top: 10px;
+    font-family: "LuloCleanW01-One";
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #005e6e;
+}
+h3 {
+    margin-top: 10px;
+    font-family: "LuloCleanW01-One";
+    text-transform: uppercase;
+    color: #005e6e;
+}
+
+
+/*
+
+
+*/
+
+.main-page {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(0deg, rgba(193,194,100,1) 21%, rgba(100,194,180,1) 93%, rgba(49,139,126,1) 100%, rgba(11,205,251,1) 100%, rgba(0,255,235,1) 100%);
+}
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 6%;
+    margin-right: 6%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.479);
+    background-color: rgba(185, 230, 230, 0.397);
+    height: 100%;
+}
+.logo-container{
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+    margin: 0 20%;
+}
+.acessarForms{
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
