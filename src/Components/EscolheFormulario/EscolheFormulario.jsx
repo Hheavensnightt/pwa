@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React from 'react'
 import Check442 from '../../Formularios/CHECK/Check442';
 import Check497 from '../../Formularios/CHECK/Check497';
 import Rdo1 from '../../Formularios/RDO/Rdo1';
@@ -18,7 +18,7 @@ function EscolheFormulario() {
 	function getTipos(e){
 		const json = tipos;
 		for(let i=0;i<json.length;i++){
-			if(json[i].aplicativo.value==e){
+			if(json[i].aplicativo.value===e){
 				setOpcoes(json[i].nomeForm);
 			}
 		}
